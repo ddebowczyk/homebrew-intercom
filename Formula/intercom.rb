@@ -1,8 +1,8 @@
 class Intercom < Formula
   desc "Coordination bus for agents working on one goal"
   homepage "https://github.com/ddebowczyk/homebrew-intercom"
-  url "https://github.com/ddebowczyk/homebrew-intercom/releases/download/v2.0.0/intercom-2.0.0.tgz"
-  sha256 "e137d9dd7e3a996f03afad7d168842c244b750c8cf83af5c4a5125c693732d31"
+  url "https://github.com/ddebowczyk/homebrew-intercom/releases/download/v2.1.0/intercom-2.1.0.tgz"
+  sha256 "077a44ea9edc4a2e6523a1025699862d00a484f7efe9833b63838dfd339517e9"
   license "MIT"
 
   depends_on "node"
